@@ -1,2 +1,3 @@
-# chakir-manale.github.io
-portfolio resume cv
+# CHAKIR manale: PORTFOLIO
+
+[See my portfolio](manale-chakir.github.io)
