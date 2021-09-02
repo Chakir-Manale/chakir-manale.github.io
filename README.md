@@ -1,3 +1,3 @@
 # CHAKIR manale: PORTFOLIO
 
-[See my portfolio](manale-chakir.github.io)
+[See my portfolio](https://chakir-manale.github.io/)
